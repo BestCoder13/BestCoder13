@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RAJNEESH
-- 👀 I’m interested in Web Development, Data Structure
+- 👀 I’m interested in Web Development, Data Structure, Python
 - 🌱 I’m currently learning JAVA.
 - 💞️ I’m looking to collaborate on Projects
 
